@@ -20,43 +20,40 @@
         <div class="row justify-content-center">
             <div class="col-lg-4 col-sm-6 col-md-6">
                 <div class="pricing-box">
+                    <div data-aos="fade-right">
                    <h3>Visi</h3>
 
                     <ul class="price-features list-unstyled">
-                        <li>Unlimited Domain</li>
-                        <li>Unmetered Bandwidth</li>
-                        <li>Free SSL Certificate </li>
-                        <li>20 Email Subscription</li>
-                        <li>SSD Hosting</li>
+                        <li>Visi Paguron Penca Silat Nampon Adanya manusia Indonesia berkualitas, berdaya saing, mengabdi bagi masyarakat, bangsa dan negara. Adanya manusia sehat mental, Jasmani, rohani, beriman, dan bertakwa pada Tuhan yang Maha Esa.</li>
                     </ul>
 
-
+                </div>
                 </div>
             </div>
             <div class="col-lg-4 col-sm-6 col-md-6">
-                <div class="single-project">
-                    <img src="{{url('image/nampon.jpg')}}" alt="" class="img-fluid">
-                    <div class="project-content">
-                        <h4>Project: business</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate eligendi consequuntur veniam quod</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-4 col-sm-8 col-md-6">
-                <div class="pricing-box ">
+                <div class="pricing-box">
+                    <div data-aos="fade-up"
+     data-aos-duration="3000">
+
                     <h3>Misi</h3>
 
                     <ul class="price-features list-unstyled">
-                        <li>Unlimited Domain</li>
-                        <li>Unmetered Bandwidth</li>
-                        <li>Free SSL Certificate </li>
-                        <li>20 Email Subscription</li>
-                        <li>SSD Hosting</li>
+                        <li>Misi Paguron Penca Silat Nampon Menyelenggarakan pelatihan - pendidikan Penca Silat berbudaya asli, Tatar Sunda,berakar budaya bangsa terpilih di Indonesia. Mengajak segenap perguruan berakar Ilmu Nampon/Jurus Lima diseluruh nusantara membangun tali silaturahmi. </li>
+                    </ul>
+                </div></div>
+            </div>
+            <div class="col-lg-4 col-sm-8 col-md-6">
+                <div class="pricing-box ">
+                    <div data-aos="fade-left">
+                    <ul class="price-features list-unstyled">
+                        <li>Pupuk-silang-satu-terpadukan segenap potensi,kompetensinya membangun semangat pengabdian guna manfaat sebesar besarnya masyarakat Indonesia. Mekar-hadirkan bagi mereka yang membutuhkan melalui pembangunan kelembagaan PPSN yang handal sejalan dengan perubahan zaman.
+                    </li>
                     </ul>
 
+                </div>
+                <br>
 
                 </div>
             </div>
         </div>
     </div>
-

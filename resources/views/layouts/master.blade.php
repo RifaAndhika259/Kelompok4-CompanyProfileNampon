@@ -13,7 +13,9 @@
     <!-- /LOADER TEMPLATE -->
 
  @include('layouts.address')
+ <div class="flex-center position-ref full-height">
 
+</div>
  <div class="logo-bar d-none d-md-block d-lg-block bg-light">
     <div class="container">
         <div class="row">

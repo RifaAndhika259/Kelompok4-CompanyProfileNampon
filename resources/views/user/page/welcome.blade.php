@@ -4,6 +4,8 @@
             <div class="row justify-content-center">
                 <div class="col-md-8 col-lg-6 text-center">
                     <div class="section-heading">
+                        <div data-aos="fade-up"
+                        data-aos-duration="3000">
                         <!-- Heading -->
                         <h2 class="section-title mb-2 text-white">
                            Selamat Datang Di Website Nampon Kiwari
@@ -17,9 +19,9 @@
                     <img src="{{url('image/dedi.jpg')}}" alt="" class="img-fluid">
                     <div class="project-content">
                         <h4>( Drs. Dedi Hidayat, M.M.pd )</h4>
-                        <h3>Bapak Kepala Sekolah SMKS Mahaputra Cerdas Utama dan salah satu tokoh yang mendirikan eskul Nampon </h3>
-                    </div>
-                </div>
+                    <h3> Ketua perguruan nampon kiwari di smk mahaputra </h3>
+                  </div>
+                </div></div>
                         </p>
                     </div>
                 </div>

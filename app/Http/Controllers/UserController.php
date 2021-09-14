@@ -6,9 +6,10 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    public function Index()
+    public function index(Request $request )
     {
-        return view('user.home.index');
+        $jadwal_nampon = \App\Admin::all();
+        return view('user.home.index' ,compact('jadwal_nampon'));
     }
 
     public function Sejarah()
@@ -18,7 +19,9 @@ class UserController extends Controller
 
     public function Galeri()
     {
-        return view('user.home.galeri');
+
+        $gambar = \App\Image::all();
+        return view('user.home.galeri',compact('gambar'));
     }
 
     public function Page()
@@ -32,5 +35,15 @@ class UserController extends Controller
     public function Jurus()
     {
         return view('user.home.jurus');
+    }
+
+    public function Manfaat()
+    {
+        return view ('user.home.manfaat');
+    }
+
+    public function Tujuan()
+    {
+        return view ('user.home.tujuan');
     }
 }

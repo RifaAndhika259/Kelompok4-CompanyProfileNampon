@@ -3,7 +3,7 @@
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary main-nav navbar-togglable rounded-radius">
 
             <a class="navbar-brand d-lg-none d-block" href="">
-                <h4>Rapoo</h4>
+                <h4></h4>
             </a>
             <!-- Toggler -->
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -15,7 +15,7 @@
                 <!-- Links -->
                 <ul class="navbar-nav ">
                     <li class="nav-item ">
-                        <a href="{{url('user/')}}" class="nav-link js-scroll-trigger">
+                        <a href="{{url('/')}}" class="nav-link js-scroll-trigger">
                             Home
                         </a>
                     </li>
@@ -25,7 +25,7 @@
                         </a>
                     </li>
                     <li class="nav-item ">
-                        <a href="{{url('user/')}}" class="nav-link js-scroll-trigger">
+                        <a href="{{url('user/jurus')}}" class="nav-link js-scroll-trigger">
                             Jurus
                         </a>
                     </li>
@@ -36,10 +36,17 @@
                     </li>
 
                     <li class="nav-item ">
-                        <a href="project.html" class="nav-link js-scroll-trigger">
+                        <a href="{{url('user/manfaat')}}" class="nav-link js-scroll-trigger">
                             Manfaat
                         </a>
                     </li>
+
+                    <li class="nav-item ">
+                        <a href="{{url('user/tujuan')}}" class="nav-link js-scroll-trigger">
+                            Tujuan
+                        </a>
+                    </li>
+
                 </ul>
             </div> <!-- / .navbar-collapse -->
         </nav>

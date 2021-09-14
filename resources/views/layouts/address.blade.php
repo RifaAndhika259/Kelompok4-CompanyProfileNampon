@@ -4,7 +4,7 @@
             <div class="col-lg-6 col-md-6">
                 <div class="top-bar-left text-white">
                     <i class="fa fa-map-marker"></i>
-                    <span class="ml-2">4 Goldfield Rd. Honolulu, HI 96815</span>
+                    <span class="ml-2">Sukamukti, Kec. Katapang, Bandung, Jawa Barat 40921</span>
                 </div>
             </div>
         </div>
